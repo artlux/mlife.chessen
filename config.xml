@@ -108,13 +108,13 @@
 		<icon src="res/ios/icon-50.png" width="50" height="50" />
 		<icon src="res/ios/icon-50@2x.png" width="100" height="100" />
 		<edit-config target="NSLocationWhenInUseUsageDescription" file="*-Info.plist" mode="merge">
-			<string>приложение хотело бы использовать примерное местоположение для показа более релевантной рекламы</string>
+			<string>РїСЂРёР»РѕР¶РµРЅРёРµ С…РѕС‚РµР»Рѕ Р±С‹ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РїСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ РґР»СЏ РїРѕРєР°Р·Р° Р±РѕР»РµРµ СЂРµР»РµРІР°РЅС‚РЅРѕР№ СЂРµРєР»Р°РјС‹</string>
 		</edit-config>
 		<edit-config target="NSLocationAlwaysUsageDescription" file="*-Info.plist" mode="merge">
-			<string>приложение хотело бы использовать примерное местоположение для показа более релевантной рекламы</string>
+			<string>РїСЂРёР»РѕР¶РµРЅРёРµ С…РѕС‚РµР»Рѕ Р±С‹ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РїСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ РґР»СЏ РїРѕРєР°Р·Р° Р±РѕР»РµРµ СЂРµР»РµРІР°РЅС‚РЅРѕР№ СЂРµРєР»Р°РјС‹</string>
 		</edit-config>
 		<edit-config target="NSBluetoothAlwaysUsageDescription" file="*-Info.plist" mode="merge">
-			<string>приложение хотело бы использовать ваш Bluetooth для связи</string>
+			<string>РїСЂРёР»РѕР¶РµРЅРёРµ С…РѕС‚РµР»Рѕ Р±С‹ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РІР°С€ Bluetooth РґР»СЏ СЃРІСЏР·Рё</string>
 		</edit-config>
     </platform>
 </widget>
