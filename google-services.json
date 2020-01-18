@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "649883880658",
+    "firebase_url": "https://mlife-chess.firebaseio.com",
+    "project_id": "mlife-chess",
+    "storage_bucket": "mlife-chess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649883880658:android:c2ff4defe083c8c0",
+        "android_client_info": {
+          "package_name": "mlife.chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649883880658-q5cg6lp7gh3n7r0nhe6g3n7k3jjahi9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mz67O6D96LI2LKerM9LXuPM_hn0PwVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649883880658-q5cg6lp7gh3n7r0nhe6g3n7k3jjahi9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649883880658-0mkesefb1keti0qg47a6p1qkoicfk9h7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mlife.chessen",
+                "app_store_id": "1282950825"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1830389177579766~1278346054"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649883880658:android:49d20e7f0ab7af53",
+        "android_client_info": {
+          "package_name": "mlife.chesscn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649883880658-q5cg6lp7gh3n7r0nhe6g3n7k3jjahi9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mz67O6D96LI2LKerM9LXuPM_hn0PwVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649883880658-q5cg6lp7gh3n7r0nhe6g3n7k3jjahi9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649883880658-0mkesefb1keti0qg47a6p1qkoicfk9h7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mlife.chessen",
+                "app_store_id": "1282950825"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649883880658:android:4539196acba5d4b7",
+        "android_client_info": {
+          "package_name": "mlife.chessen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649883880658-q5cg6lp7gh3n7r0nhe6g3n7k3jjahi9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mz67O6D96LI2LKerM9LXuPM_hn0PwVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649883880658-q5cg6lp7gh3n7r0nhe6g3n7k3jjahi9t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649883880658-0mkesefb1keti0qg47a6p1qkoicfk9h7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mlife.chessen",
+                "app_store_id": "1282950825"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
