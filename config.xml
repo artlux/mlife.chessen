@@ -25,6 +25,7 @@
 </plugin>
 
 <platform name="android">
+	<plugin name="cordova-plugin-analytics" spec="~2.0.0"></plugin>
 	<plugin name="cordova-plugin-admob-free" spec="~0.27.0">
 		<variable name="ADMOB_APP_ID" value="ca-app-pub-1830389177579766~1278346054" />
 	</plugin>
