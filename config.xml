@@ -15,7 +15,7 @@
 <plugin name="cordova-sqlite-evcore-extbuild-free" spec="~0.11.0" />
 <plugin name="cordova-plugin-splashscreen" spec="~5.0.3"/>
 <plugin name="cordova-plugin-insomnia" spec="~4.3.0"/>
-<plugin name="phonegap-plugin-push" spec="~2.2.3">
+<plugin name="phonegap-plugin-push" spec="~2.3.0">
 	<variable name="FCM_VERSION" value="17.3.3" />
 </plugin>
 
