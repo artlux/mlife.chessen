@@ -19,8 +19,10 @@
 	<a class="next item-link itemTask" href="#" data-id=""><i class="arrow_right_fill"></i></a>
 	<div class="st__info">
 		<i class="icon_stars"></i>
+		
 		<i class="result_ok_icon"></i>
 		<i class="result_fail_icon"></i>
+		<a href="#" class="result_dislike_icon"></a>
 		<i class="result_fail_icon iconleftFail"></i>
 	</div>
 </div>
@@ -39,15 +41,35 @@
 <div class="tasksWrapper tab-block"><div class="wrpLevel2"></div></div>
 <div class="settingsWrapper tab-block"><div class="wrpLevel2">
 	<h2 class="titleCategory ht_SETT1" style="margin-bottom:0;"></h2>
-	<div class="contentWrap contentWrapSound"></div>
+	<div class="contentWrap contentWrapSound"><a href="#" class="setSound setSound_on" data-variant="on"><span class="ht_ON"></span></a><a href="#" class="setSound setSound_off" data-variant="off"><span class="ht_OFF"></span></a></div>
 	
 	<h2 class="titleCategory ht_SETT2" style="margin-bottom:0;margin-top:20px;"></h2>
-	<div class="contentWrap contentWrapInsomnia"></div>
+	<div class="contentWrap contentWrapInsomnia"><a href="#" class="setInsomnia setInsomnia_on" data-variant="on"><span class="ht_ON"></span></a><a href="#" class="setInsomnia setInsomnia_off" data-variant="off"><span class="ht_OFF"></span></a></div>
+	
+	<h2 class="titleCategory ht_SETT3" style="margin-bottom:0;margin-top:20px;"></h2>
+	<div class="contentWrap contentWrapBoardColor">
+		<a href="#" class="setColor color1" data-variant="1"><b class="black"></b><b class="white"></b><b class="white clear"></b><b class="black"></b></a>
+		<a href="#" class="setColor color2" data-variant="2"><b class="black"></b><b class="white"></b><b class="white clear"></b><b class="black"></b></a>
+		<a href="#" class="setColor color3" data-variant="3"><b class="black"></b><b class="white"></b><b class="white clear"></b><b class="black"></b></a>
+		<a href="#" class="setColor color4" data-variant="4"><b class="black"></b><b class="white"></b><b class="white clear"></b><b class="black"></b></a>
+	</div>
+	<h2 class="titleCategory ht_SETT4" style="margin-bottom:0;margin-top:20px;"></h2>
+	<div class="contentWrap contentWrapBoardPieces">
+		<a href="#" class="pieces pieces_wikipedia" data-variant="wikipedia"></a>
+		<a href="#" class="pieces pieces_uscf" data-variant="uscf"></a>
+		<a href="#" class="pieces pieces_alpha" data-variant="alpha"></a>
+	</div>
+	<h2 class="titleCategory ht_SETT5" style="margin-bottom:0;margin-top:20px;"></h2>
+	<div class="contentWrap contentWrapBoardOrientation">
+		<a href="#" class="setOrientation setOrientation_white" data-variant="white"><span class="ht_WHITE"></span></a>
+		<a href="#" class="setOrientation setOrientation_black" data-variant="black"><span class="ht_BLACK"></span></a>
+		<a href="#" class="setOrientation setOrientation_auto" data-variant="auto"><span class="ht_AUTO"></span></a>
+	</div>
 	
 	<h2 class="titleCategory ht_SETT_SUPPORT" style="margin-bottom:0;margin-top:20px;"></h2>
 	<p>Dev.: Andrew Zahalski</p>
 	<p class="selectable">Email: <font>kalinkovichi@yandex.by</font></p>
-	<p><font class="ht_SETT_SUPPORT_TEH"></font>: <a target="_blank" href="https://mlife-media.bitrix24.ru/online/chessgame-en?clientId=mobile_app_en" onclick="cordova.InAppBrowser.open('https://mlife-media.bitrix24.ru/online/chessgame-en?clientId=mobile_app_en', '_blank', 'location=yes');return false;" class="ht_SETT_SUPPORT_TEH2"></a></p>
+	<p class="supportLink"><font class="ht_SETT_SUPPORT_TEH"></font>: <a target="_blank" href="https://mlife-media.bitrix24.ru/online/chessgame-en?clientId=mobile_app_en&device=DEVICEID" onclick="cordova.InAppBrowser.open('https://mlife-media.bitrix24.ru/online/chessgame-en?clientId=mobile_app_en&device=DEVICEID', '_blank', 'location=yes');return false;" class="ht_SETT_SUPPORT_TEH2"></a></p>
 </div></div>
 <div class="footRow">
 	<div class="left"><span id="coin">0</span></div>
